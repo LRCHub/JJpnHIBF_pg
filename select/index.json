@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Drawing days",
+  "base_artist": "SPLAY",
+  "createdAt": "2026-02-14T15:39:42.181783Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Drawing days",
+      "artist": "SPLAY",
+      "has_synced": false,
+      "path": "select/01_Drawing_days_SPLAY.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Drawing days",
+      "artist": "SPLAY",
+      "has_synced": true,
+      "path": "select/02_Drawing_days_SPLAY.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Drawing days",
+      "artist": "SPLAY",
+      "has_synced": true,
+      "path": "select/03_Drawing_days_SPLAY.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Drawing days",
+      "artist": "SPLAY",
+      "has_synced": true,
+      "path": "select/04_Drawing_days_SPLAY.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Drawing days - From CrosSing",
+      "artist": "Satomi Akesaka",
+      "has_synced": false,
+      "path": "select/05_Drawing_days_-_From_CrosSing_Satomi_Akesaka.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Drawing Days",
+      "artist": "SPLAY",
+      "has_synced": false,
+      "path": "select/pl_01_Drawing_Days_SPLAY.txt"
+    }
+  ]
+}
